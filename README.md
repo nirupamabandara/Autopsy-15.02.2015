@@ -2,6 +2,7 @@
 Image Recovery
 
 Name: Nirupama Bandara
+
 Registration Number: MS13961718
 
 1)Creating test partition on VMware and Kali Linux
